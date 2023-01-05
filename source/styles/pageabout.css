@@ -1,0 +1,9 @@
+.block-info img {
+    width: 100%;
+}
+
+.card {
+    background: linear-gradient(292deg, #5F695C 1%, #8BD285 69%);
+    border-color: black;
+    border-width: 2px;  
+}
